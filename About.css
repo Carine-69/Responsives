@@ -65,9 +65,10 @@ font-size: 20px;
     margin-right: 50px;
 }
 
-.links{
+.navigation-links{
 display: flex;
 justify-content: center;
+text-decoration: none;
 
 }
 
